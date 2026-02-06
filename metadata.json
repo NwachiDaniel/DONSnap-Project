@@ -1,0 +1,9 @@
+{
+  "name": "DONS AI Suite",
+  "description": "An AI-powered application for image enhancement, real-time voice assistance, smart search, and video animation using Gemini and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
