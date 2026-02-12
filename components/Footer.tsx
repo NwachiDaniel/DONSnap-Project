@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
       <div className="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4">
         <div className="flex flex-col items-center md:items-start">
           <p className="text-slate-500 text-sm font-medium">
-            &copy; {currentYear} <span className="text-cyan-500 font-bold">Dons Technologies</span>
+            &copy; {currentYear} <span className="text-cyan-500 font-bold">HomeLand Technologies</span>
           </p>
           <p className="text-slate-600 text-[10px] uppercase tracking-[0.2em] mt-1">
             Precision AI Engineering
